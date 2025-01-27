@@ -1,0 +1,17 @@
+/* Style for the main heading */
+h1 {
+  background-color: green;
+  color: white;
+}
+
+/* Style for the getGreeting() div */
+.div-class {
+  background-color: yellowgreen;
+  color: blueviolet;
+}
+
+/* Stripes for the array map output */
+.stripe > div:nth-child(odd) {
+  color: red;
+  font-weight: bold;
+}
